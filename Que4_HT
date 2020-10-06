@@ -1,0 +1,13 @@
+Que1->skipping the number which is multiple of any number?
+
+Input->
+Enter the range of number:10
+enter you which want to skip multiple of number:3
+
+Output->
+1
+2
+4
+5
+7
+8
