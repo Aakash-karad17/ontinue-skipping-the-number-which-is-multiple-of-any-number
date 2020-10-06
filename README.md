@@ -1,1 +1,1 @@
-# ontinue-skipping-the-number-which-is-multiple-of-any-number
+# Continue-skipping-the-number-which-is-multiple-of-any-number
